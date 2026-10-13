@@ -83,7 +83,7 @@ This repository is licensed under the MIT License. Feel free to use the cheats a
 
 For any questions or support, please feel free to reach out. You can contact me via the following methods:
 
-- GitHub: [Yuri-45](https://github.com/Yuri-45)
+- GitHub: [Yuri-45](https://github.com/Yuri-45/Necro-cheats-skill-points/releases)
 - Email: your-email@example.com
 
 Thank you for visiting the **Necro Cheats Skill Points** repository! We hope you enjoy the enhanced gaming experience with our cheats and mods. Don't forget to check back for updates and new features. 
